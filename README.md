@@ -105,4 +105,4 @@ java -cp src BankManagementSystem.Main
 
 ## Author
 
-**Aziz**
+**Sk Azizul Hosen**
